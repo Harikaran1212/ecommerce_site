@@ -36,6 +36,16 @@
   font-weight: 600;
   cursor: pointer;
   position: relative;
+  text-align: center;
+  display: flex;
+  gap:3px;
+}
+
+
+.brand-name svg{
+
+  color:red;
+
 }
 
 .cart-icon {
@@ -53,7 +63,7 @@
   height: 14px;
   width: 14px;
   text-align: center;
-  background-color: black;
+  background-color: red;
   color: white;
 
   /* border: 1px solid black; */

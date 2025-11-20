@@ -17,6 +17,7 @@
   justify-content: center;
   align-items: center;
   overflow: hidden;
+  box-shadow: gray 0px 0px 8px;
 }
 
 .model-photo {
