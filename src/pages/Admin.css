@@ -1,0 +1,4 @@
+.admin-page-root{max-width:1100px;margin:24px auto;padding:0 16px}
+.admin-links{display:flex;gap:12px;margin:12px 0}
+.admin-links a{background:#222;color:#fff;padding:8px 12px;border-radius:4px;text-decoration:none}
+.admin-links a:hover{opacity:0.9}
